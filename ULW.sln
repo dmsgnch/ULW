@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ULW", "ULW\ULW.csproj", "{46936E4F-46DE-4EEF-A466-E1BFD949C5BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46936E4F-46DE-4EEF-A466-E1BFD949C5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46936E4F-46DE-4EEF-A466-E1BFD949C5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46936E4F-46DE-4EEF-A466-E1BFD949C5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46936E4F-46DE-4EEF-A466-E1BFD949C5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
